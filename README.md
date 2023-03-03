@@ -1,7 +1,4 @@
-# New-FiveM-Cheat
-
-This source is dtc but working fine , it's not clean code so don't be trash , it's like a "alpha" version 
-There is part of exec , sorry i was making something
+# RedEngineCrack
 
 Features :
 - Aimbot ( Visible check, magic bullet, adaptive weapon, fov, smooth, distance)
@@ -17,5 +14,4 @@ Features :
 - Integrated login(keyauth)
 - You can use reshade 
 
-Pasters will paste, and kitsune too 
 ![image](https://user-images.githubusercontent.com/62155427/198326962-1096e8d6-5278-46a7-9ab8-94c44022af88.png)
