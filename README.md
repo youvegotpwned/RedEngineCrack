@@ -14,4 +14,4 @@ Features :
 - Integrated login(keyauth)
 - You can use reshade 
 
-![image](https://user-images.githubusercontent.com/62155427/198326962-1096e8d6-5278-46a7-9ab8-94c44022af88.png)
+![image](https://cdn.discordapp.com/attachments/842547558713786419/1081338330584715416/6de374b24ed996c6be3d102a0856.jpg)
